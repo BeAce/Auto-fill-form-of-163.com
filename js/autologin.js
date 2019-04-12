@@ -5,8 +5,8 @@ function getId(id) {
 var userInfo = [
 	{	
 		"webId" : "http://email.163.com/",
-		"userNameIpt" : "18817834467",
-		"pwdInput" : "ttz19940814"
+		"userNameIpt" : "xxx",
+		"pwdInput" : "xxx"
 	}
 ];
 
